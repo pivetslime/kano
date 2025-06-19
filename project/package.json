@@ -1,3 +1,5 @@
+npm init
+
 {
   "name": "kanban-board-pro",
   "private": true,
